@@ -1,0 +1,31 @@
+{
+  "price": 1,
+  "number": 10000,
+  "gatekeeper": {
+    "gatekeeperNetwork": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+    "expireOnUse": true
+  },
+  "solTreasuryAccount": null,
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "11 Dec 2021 13:00:00 CST",
+  "endSettings": null, 
+  "whitelistMintSettings": {
+    "mode": { "burnEveryTime": true },
+    "mint": "WLTweKq45GwfP4amoP96cMVbN4XvEuS2wv7hFoL2RNE",
+    "presale": true,
+    "discountPrice": 0.50
+    },
+    "hidden settings "
+    {
+      "name": "Space Avatars ",
+      "uri": "https://ipfs.io/ipfs/QmW1p2mC4eLKq4LdqALarzH2fWMJK4awJCdPbbGBax7ax8?filename=Space%20AVATARS%20WHITELIST0001-0096.mp4",
+      "hash": "12345678912345678912345678912345"
+      },
+  "storage": "arweave",
+  "ipfsInfuraProjectId": null,
+  "ipfsInfuraSecret": null,
+  "awsS3Bucket": null,
+  "noRetainAuthority": false,
+  "noMutable": false
+}
